@@ -1,2 +1,7 @@
-# Data-Engineering-labs
-In this lab I practiced extracting data from different file types, transforming the data, and then loading it to a database for further processing.
+# Data Engineering Labs
+
+This repository contains labs completed as part of my Data Engineering Certificate.
+
+## Labs
+- [Lab 1: ETL](Lab1/Lab1.ipynb)
+- [Lab 2: Web Scraping Movies](Lab2/webscraping_movies.py)
